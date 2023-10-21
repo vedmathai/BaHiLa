@@ -1,0 +1,146 @@
+[
+    {
+        "event_subject": "Israel and militant groups",
+        "event_number_of_victims": 29,
+        "event_location": "Gaza",
+        "date": "2023-05-11",
+        "url": "https://www.theguardian.com/world/2023/may/11/gaza-strip-fighting-enters-third-day-despite-egypt-ceasefire-efforts-israel-palestine",
+        "title": "Gaza Strip fighting intensifies on third day despite Egypt ceasefire efforts "
+    },
+    {
+        "event_subject": "Palestinian health ministry",
+        "event_number_of_victims": 13,
+        "event_location": null,
+        "date": "2023-05-09",
+        "url": "https://www.theguardian.com/world/2023/may/09/israel-bombs-gaza-strip-killing-three-islamic-jihad-leaders",
+        "title": "Israel bombs Gaza Strip, killing three Islamic Jihad leaders and nine civilians"
+    },
+    {
+        "event_subject": "Israeli forces",
+        "event_number_of_victims": 12,
+        "event_location": "occupied West Bank",
+        "date": "2023-07-05",
+        "url": "https://www.theguardian.com/world/2023/jul/05/palestinians-reel-israel-raid-on-jenin",
+        "title": "\u2018It\u2019s just like the intifada\u2019: Palestinians reel from Israel\u2019s raid on Jenin"
+    },
+    {
+        "event_subject": "Israeli military",
+        "event_number_of_victims": 150,
+        "event_location": "West Bank",
+        "date": "2023-01-27",
+        "url": "https://www.theguardian.com/world/2023/jan/27/tense-but-calm-after-deadly-jenin-raid-triggers-israel-gaza-rocket-fire-exchange",
+        "title": "Tense but calm after deadly Jenin raid triggers Israel-Gaza rocket fire exchange"
+    },
+    {
+        "event_subject": "al-Aqsa compound",
+        "event_number_of_victims": 12,
+        "event_location": "Jerusalem",
+        "date": "2023-04-07",
+        "url": "https://www.theguardian.com/world/2023/apr/07/two-sisters-killed-and-mother-injured-in-west-bank-shooting",
+        "title": "Two British sisters killed and mother injured in West Bank shooting"
+    },
+    {
+        "event_subject": "Gaza Community Mental Health Programme",
+        "event_number_of_victims": 4400,
+        "event_location": "Gaza",
+        "date": "2023-06-04",
+        "url": "https://www.theguardian.com/world/2023/jun/04/we-tell-them-they-can-still-laugh-the-doctor-treating-the-mental-scars-of-gazas-children",
+        "title": "\u2018We tell them they can still laugh\u2019 \u2013 the doctor treating the mental scars of Gaza\u2019s children"
+    },
+    {
+        "event_subject": "man",
+        "event_number_of_victims": 3,
+        "event_location": "Sinai border with Egypt",
+        "date": "2023-06-04",
+        "url": "https://www.theguardian.com/world/2023/jun/04/killer-of-three-israeli-soldiers-was-egyptian-border-police-officer-says-army",
+        "title": "Killer of three Israeli soldiers was Egyptian border police officer, says army"
+    },
+    {
+        "event_subject": "Palestinians",
+        "event_number_of_victims": 14,
+        "event_location": "Jerusalem",
+        "date": "2023-04-05",
+        "url": "https://www.theguardian.com/world/2023/apr/05/israel-al-aqsa-mosque-rocket-sirens-around-gaza",
+        "title": "Palestinians arrested and injured in Israeli raid on al-Aqsa mosque"
+    },
+    {
+        "event_subject": "Maia and Rina Dee",
+        "event_number_of_victims": 2,
+        "event_location": "occupied West Bank",
+        "date": "2023-04-09",
+        "url": "https://www.theguardian.com/world/2023/apr/09/funeral-takes-place-for-british-israeli-sisters-killed-in-west-bank",
+        "title": "Funeral takes place for British-Israeli sisters killed in West Bank"
+    },
+    {
+        "event_subject": "Israel",
+        "event_number_of_victims": 1000,
+        "event_location": "Israel",
+        "date": "2023-05-02",
+        "url": "https://www.theguardian.com/world/2023/may/02/palestinian-khader-adnan-dies-in-israel-jail-after-87-day-hunger-strike",
+        "title": "Palestinian Khader Adnan dies in Israel jail after 87-day hunger strike"
+    },
+    {
+        "event_subject": "Seven Israelis",
+        "event_number_of_victims": 7,
+        "event_location": "East Jerusalem",
+        "date": "2023-01-28",
+        "url": "https://www.theguardian.com/world/2023/jan/27/seven-israelis-killed-leaving-synagogue-in-east-jerusalem",
+        "title": "Seven Israelis killed leaving synagogue in East Jerusalem"
+    },
+    {
+        "event_subject": "Israeli army raid",
+        "event_number_of_victims": 9,
+        "event_location": "West Bank",
+        "date": "2023-01-28",
+        "url": "https://www.theguardian.com/world/2023/jan/28/fears-of-escalating-conflict-as-gunman-injures-two-israelis-in-east-jerusalem",
+        "title": "Fears of escalating conflict as gunman injures two Israelis in East Jerusalem"
+    },
+    {
+        "event_subject": "British and Italian tourists",
+        "event_number_of_victims": 5,
+        "event_location": "Tel Aviv",
+        "date": "2023-04-08",
+        "url": "https://www.theguardian.com/world/2023/apr/07/one-killed-and-six-injured-in-suspected-attack-in-tel-aviv",
+        "title": "Violence in Tel Aviv leaves one dead and five injured"
+    },
+    {
+        "event_subject": "Palestinian gunman",
+        "event_number_of_victims": 3,
+        "event_location": "Tel Aviv",
+        "date": "2023-04-08",
+        "url": "https://www.theguardian.com/world/2023/apr/08/tensions-run-high-in-tel-aviv-after-car-ramming-attack-leaves-tourist-dead",
+        "title": "Tensions run high across Israel after car ramming attack leaves tourist dead"
+    },
+    {
+        "event_subject": "Rina and Maia Dee",
+        "event_number_of_victims": 2,
+        "event_location": "occupied West Bank",
+        "date": "2023-04-08",
+        "url": "https://www.theguardian.com/world/2023/apr/08/british-israeli-sisters-killed-in-west-bank-gun-attack-named",
+        "title": "British-Israeli sisters killed in West Bank gun attack named"
+    },
+    {
+        "event_subject": "Haitham al-Tamimi",
+        "event_number_of_victims": 1,
+        "event_location": "Palestinian hospital",
+        "date": "2023-06-05",
+        "url": "https://www.theguardian.com/world/2023/jun/05/three-year-old-palestinian-boy-shot-by-israeli-soldiers-dies-in-hospital",
+        "title": "Three-year-old Palestinian boy shot by Israeli soldiers dies in hospital"
+    },
+    {
+        "event_subject": "shooting",
+        "event_number_of_victims": 5,
+        "event_location": "Yafa an-Naseriyye",
+        "date": "2023-06-08",
+        "url": "https://www.theguardian.com/world/2023/jun/08/five-killed-in-shooting-at-car-wash-near-nazareth-as-israel-sees-wave-of-violence",
+        "title": "Five killed in shooting at car wash near Nazareth as Israel sees wave of violence"
+    },
+    {
+        "event_subject": "Palestinian gunman",
+        "event_number_of_victims": 3,
+        "event_location": "West Bank",
+        "date": "2023-04-10",
+        "url": "https://www.theguardian.com/world/2023/apr/10/palestinian-boy-shot-dead-by-israeli-troops-in-west-bank-refugee-camp",
+        "title": "Palestinian boy shot dead by Israeli troops in West Bank refugee camp"
+    }
+]
