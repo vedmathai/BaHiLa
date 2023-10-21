@@ -4,7 +4,7 @@ import sys
 # Replace 'path_to_theguardian_module' with the actual path to the module's directory
 sys.path.append('theguardian-api-python')
 from theguardian import theguardian_content
-
+import requests
 
 # Filter function to remove unwanted content
 unwanted_keywords = ["football", "society","fashion","music","lifeandstyle","environment","media","tv-and-radio","film"]
@@ -64,3 +64,16 @@ def get_content(fromdate, todate, keyword, api_key):
     return filtered_results
 
 
+def fetch_article_content(api_key, endpoint):
+    # Construct the full URL with the API key
+    url = f"{endpoint}?api-key={api_key}&show-fields=body"
+    
+    # Make the GET request to the API
+    response = requests.get(url)
+    
+    # If the request was successful, extract and return the article content
+    if response.status_code == 200:
+        data = response.json()
+        return data["response"]["content"]["fields"]["body"]
+    else:
+        return f"Error {response.status_code}: Unable to fetch the article."
