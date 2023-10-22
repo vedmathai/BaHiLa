@@ -1,0 +1,33 @@
+
+.map-sidebar-container {
+  top: 0px;
+  width: 20vw;
+  height: 100vh;
+  position: fixed;
+  background-color: #363636;
+  border-right: 1px solid #e6e6e6;
+  z-index: 900;
+  opacity: 0.8;
+}
+
+.map-sidebar-title {
+  color: #e6e6e6;
+  font-size: 2em;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 100px;
+  padding-left: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.map-sidebar-datepicker-container {
+  position: relative;
+  top: 100px;
+  padding-left: 10px;
+  padding-top: 30px;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
